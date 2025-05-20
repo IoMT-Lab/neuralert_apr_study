@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+darjeeling = {file = "Darjeeling-master", editable = true}
+setuptools = "*"
+kaskara = {file = "Kaskara-master", editable = true }
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

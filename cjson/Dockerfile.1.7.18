@@ -1,0 +1,6 @@
+FROM cjson:base
+
+COPY cJSON-1.7.18 /cjson
+WORKDIR /cjson
+
+RUN cmake .

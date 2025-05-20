@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "defs.h": "c",
+        "signal.h": "c",
+        "stdio.h": "c",
+        "features.h": "c",
+        "stdlib.h": "c",
+        "unity.h": "c",
+        "common.h": "c"
+    }
+}

@@ -1,0 +1,52 @@
+.gradle
+.idea
+.tox
+debug
+
+.mypy_cache
+
+bugzood.log
+
+*.egg-info
+dist
+Pipfile
+*.pyc
+*.pyo
+
+*.swp
+*.swo
+
+build
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
